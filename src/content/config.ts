@@ -8,6 +8,8 @@ const shared = {
   "last-modified": z.string().optional(),
   type: z.string().optional(),
   public: z.boolean().optional(),
+  draft: z.boolean().optional(),
+  date: z.coerce.date().optional(),
 };
 
 const blog = defineCollection({
@@ -17,12 +19,22 @@ const blog = defineCollection({
 
 const work = defineCollection({
   type: "content",
-  schema: z.object({ ...shared }),
+  schema: z.object({
+    ...shared,
+    company: z.string().optional(),
+    role: z.string().optional(),
+    dateStart: z.coerce.date().optional(),
+    dateEnd: z.union([z.string(), z.coerce.date()]).optional(),
+  }),
 });
 
 const projects = defineCollection({
   type: "content",
-  schema: z.object({ ...shared }),
+  schema: z.object({
+    ...shared,
+    demoURL: z.string().optional(),
+    repoURL: z.string().optional(),
+  }),
 });
 
 const brain = defineCollection({
