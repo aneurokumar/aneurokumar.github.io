@@ -1,35 +1,40 @@
 import { defineCollection, z } from "astro:content";
 
-const blog = defineCollection({
+const shared = defineCollection({
   type: "content",
   schema: z.object({
     title: z.string(),
     description: z.string(),
-    date: z.coerce.date(),
-    draft: z.boolean().optional()
+    tags: z.array(z.string()).optional(),
+    created: z.string().option(),
+    "last-modified": z.string().optional(),
+    type: z.string().optional(),
+    public: z.boolean().optional(),
+  }),
+});
+
+const blog = defineCollection({
+  type: "content",
+  schema: z.object({...shared}),
   }),
 });
 
 const work = defineCollection({
   type: "content",
-  schema: z.object({
-    company: z.string(),
-    role: z.string(),
-    dateStart: z.coerce.date(),
-    dateEnd: z.union([z.coerce.date(), z.string()]),
+  schema: z.object({...shared}),
   }),
 });
 
 const projects = defineCollection({
   type: "content",
-  schema: z.object({
-    title: z.string(),
-    description: z.string(),
-    date: z.coerce.date(),
-    draft: z.boolean().optional(),
-    demoURL: z.string().optional(),
-    repoURL: z.string().optional()
+  schema: z.object({...shared}),
   }),
 });
 
-export const collections = { blog, work, projects };
+const brain = defineCollection({
+  type: "content",
+  schema: z.object({shared}),
+  }),
+});
+
+export const collections = { work, projects, blog, brain };
