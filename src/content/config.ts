@@ -15,7 +15,7 @@ const blog = defineCollection({
     ...base,
     title: z.string(),
     description: z.string(),
-    date: z.coerce.date(),
+    created: z.union([z.string(), z.coerce.date()]).nullish(),
   }),
 });
 
