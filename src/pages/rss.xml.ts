@@ -14,17 +14,22 @@ export async function GET(context: Context) {
     .filter(project => !project.data.draft);
 
   const items = [...blog, ...projects]
-    .sort((a, b) => new Date(b.data.date).valueOf() - new Date(a.data.date).valueOf());
+    .sort((a, b) => {
+      const dateA = a.data.created ? new Date(String(a.data.created)).valueOf() : 0;
+      const dateB = b.data.created ? new Date(String(b.data.created)).valueOf() : 0;
+      return dateB - dateA;
+    });
+
 
   return rss({
     title: HOME.TITLE,
     description: HOME.DESCRIPTION,
     site: context.site,
     items: items.map((item) => ({
-      title: item.data.title,
-      description: item.data.description,
-      pubDate: item.data.date,
-      link: `/${item.collection}/${item.slug}/`,
+    title: item.data.title ?? item.slug,
+    description: item.data.description ?? "",
+    pubDate: item.data.created ? new Date(String(item.data.created)) : new Date(),
+    link: `/${item.collection}/${item.slug}/`,
     })),
   });
 }
