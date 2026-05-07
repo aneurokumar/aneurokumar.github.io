@@ -2,8 +2,8 @@ import { defineCollection, z } from "astro:content";
 
 const base = {
   tags: z.array(z.string()).optional(),
-  created: z.string().optional(),
-  "last-modified": z.string().optional(),
+  created: z.union([z.string(), z.coerce.date()]).optional(),
+  "last-modified": z.union([z.string(), z.coerce.date()]).optional(),
   type: z.string().optional(),
   public: z.boolean().optional(),
   draft: z.boolean().optional(),
@@ -48,8 +48,8 @@ const brain = defineCollection({
   type: "content",
   schema: z.object({
     ...base,
-    title: z.string().optional(),
-    description: z.string().optional(),
+    title: z.string().nullish(),
+    description: z.string().nullish(),
   }),
 });
 
