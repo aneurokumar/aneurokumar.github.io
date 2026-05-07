@@ -1,12 +1,14 @@
 ---
 public: true
 title:
+description:
+type: projects
 tags:
   - skill
   - success
   - self-sabotage
 created: 11-10-2024
-last-modified: 18-01-2025
+last-modified: 07-05-2026
 ---
 **Related**:
 
