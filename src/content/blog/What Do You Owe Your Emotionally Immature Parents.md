@@ -1,0 +1,98 @@
+---
+public: true
+title: What Do You Owe Your Emotionally Immature Parents?
+description: “Love, Chai, and Other Four Letter Words” shows a glimpse of bad, yet normalized, parenting
+type: blog
+tags:
+  - "#article"
+  - "#book-review"
+  - "#abuse"
+created: 11-10-2024
+last-modified: 07-05-2026
+---
+**Related**: [[../../../Identity MOC|Identity MOC]], [[../../../You Shouldn’t Always“Respect Your Elders” - Meaningful respect needs to be taught instead.|You Shouldn’t Always“Respect Your Elders” - Meaningful respect needs to be taught instead.]]
+
+---
+> Author's note: This was originally published on Medium, and may contain slight edits.
+
+![](https://miro.medium.com/v2/resize:fit:1400/1*SEYaHX07QpwbMJTsSw3B3Q.png)
+
+Image edited by the author | Original Photo by [Darina Belonogova](https://www.pexels.com/@darina-belonogova?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) from [Pexels](https://www.pexels.com/photo/a-woman-with-light-patterns-shining-on-her-7541547/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)
+
+We all know someone who has a terrible family.
+
+Maybe you’re _that_ friend, the one who complains about how disastrous your family or parents are compared to others.
+
+Of course, we’re not supposed to talk about family like that. It’s taboo, and the victims risk feeling isolated after sharing their experiences. If your culture puts family on a pedestal, it’s mind boggling to imply that parents [could be horrible.](https://www.theguardian.com/lifeandstyle/2017/mar/11/horrid-parents-how-survive-them-alyson-corner-angela-levin)
+
+But horrid parents exist, no matter the country or culture. Parents berate their children and clip their wings because they just want something to control. It’s difficult to imagine parents committing such acts, but author Annika Sharma depicts this tense, exhausting experience through Kiran’s story.
+
+# A Parent’s Love Can Be Conditional
+
+In _Love, Chai, and Other Four Letter Words,_ we’re introduced to Kiran Mathur — the hardworking, dutiful younger daughter from India who has lived her life only for her parents. She and her sister, Kirti, were their parents’ pride and joy.
+
+Until they tried to think for themselves.
+
+Kirti, the older sister, fell in love and married someone from a different caste. In their small village of Ramnagar, this was one of the worst things she could do. The village council demanded her disownment and exile as punishment. It tore an aching wound in their family, prompting Kiran’s parents to “advise” her to choose the “right” path. They had given Kirti so much, after all. They gave her food, water, clothing, and even allowed her to study. How, they thought, could she betray her parents like that?
+
+> “Falling in love is a big deal in our family. Parents usually choose who their children should be with. And when Kirti fell in love, it challenged everything. My parents never recovered.” — **_Kiran Mathur,_** “Love, Chai, and Other Four Letter Words.”
+
+Kiran vowed to be the dutiful daughter to make up for her sister’s decision. Her parents, she reasoned, had sacrificed so much for her. They took care of her when she had tuberculosis before her board exams. They encouraged her decision to go to college in the US, against the village elders’ wishes.
+
+After her father suffered a heart attack due to the ordeal, and Kiran vowed to be the “obedient” daughter to make up for her sister’s horrific decision.
+
+Ten years after moving to the US, she’s a talented and respected biomedical engineer in New York, financially supporting her parents, and staying close to her cultural roots. She’s lived up to her role as the dutiful daughter, she thinks, right before the unthinkable happens.
+
+She falls in love — _with a white, American man._
+
+# What Happens When Your Parents Are the Villains?
+
+Nash, her new neighbor-turned friend-turned boyfriend, is swoon-worthy. A child psychologist from Tennessee, he’s curious and respectful of Kiran and her culture. As their connection grows, Kiran begins to understand her sister’s predicament. But, she thinks, she’s done her duty. She’s sacrificed all of her wants for her parents. Surely, they would be understanding?
+
+> “We did not send you to America for this kind of betrayal!” — **Kiran’s father**
+
+Unable to keep something this big away from her parents, Kiran confesses. Any hope of a respectful conversation vanishes. Her parents are furious, insulting their youngest daughter by calling her _a whore._ For simply falling in love.
+
+> “I already wish I were dead. I wouldn’t be able to see you doing something like this, Kiran. If you were here…” His voice trailed off with deep implication.
+> 
+> “Would you do that to me, Baba?” Kiran murmured. “Would you threaten me?”
+> 
+> “_We_ wouldn’t. But can you imagine? Can you imagine what they’ll say about us? They already said enough when Kirti ran away. Can you imagine what people will _do_ when they find out you’ve done worse?”
+> 
+> “You’re acting like I killed someone!”
+> 
+> “You did. You murdered the version of you we knew. _Our daughter is dead to us.”_
+
+They didn’t mean that…Did they?
+
+They couldn’t be talking about Kiran. Kiran, the daughter who studied hard _for her parents._ Kiran, who chose her career _for her parents._ Who called home often, sent them money, moved them closer to better medical facilities, and worried about their health.
+
+But they were. She gave up all of herself and instead of gratitude, her parents treated her as [an emotional punching bag.](https://psychcentral.com/blog/childhood-neglect/2019/11/how-emotionally-immature-parents-raise-emotionally-neglected-kids#3)
+
+When your success was contingent on your parents’ care and sacrifice, does that give them the [right to mistreat you?](https://psychcentral.com/blog/childhood-neglect/2019/11/how-emotionally-immature-parents-raise-emotionally-neglected-kids#3)
+
+# ==Not All Parents Are Good Parents==
+
+We might think parents fall into two categories: imperfectly-wonderful or violently abusive. But parents, like everyone else, fall on a spectrum. Psychologist Alyson Corner and journalist Angela Levin launched a website for children who have difficult parents but might not be violently abusive.
+
+> On this website you will find ways to [cope](https://www.myhorridparent.com/how-to-cope) with a [parent](https://alyson-hoggart-w8wy.squarespace.com/classes) who regularly puts you down, finds fault with what you do and treats you in a negative way. We explain what makes them as they are, try our best to support you and give you lots of ideas on how to get by, especially when you [feel](https://www.myhorridparent.com/your-feelings) vulnerable.
+> 
+> [**My Horrid Parent**](https://www.myhorridparent.com/) **Homepage**
+
+Have they justified their ill-treatment of you simply because they’re your parents? Because they had you, bought you clothes, fed you, sent you to school. Are they not supposed to do those things in the first place?
+
+She thinks back on their sacrifices and feels _guilty_: caring for her when she had Tuberculosis, helping her study for her boards, and defending her from naysayers when she moved to the US.
+
+Unfortunately, when children of difficult (horrible) parents speak up, the children sometimes feel guilty. Identifying these [complex feelings](https://www.myhorridparent.com/your-feelings) can help put perspective on a difficult upbringing. This technique, called [affect labeling](https://pubmed.ncbi.nlm.nih.gov/17576282/), can increase activity in subregions of your pre-fontal cortex and decrease activity in your amygdala. Saying your feelings out loud changes how your brain regulates negative emotions. This is something I wish Kiran had done more of.
+
+# Should We Really Forgive Our Parents So Easily?
+
+While the book’s ending was tied in a Bollywood-esque bow, I was furious at Kiran’s apparent quick forgiveness of her parents’ behavior. In the end, we know that holding onto anger just rots us from the inside, but I wish she had understood the validity of her anger and frustration.
+
+I was holding onto every word when Kiran was dealing with the estrangement from her family, hoping that she would end up victorious. Hoping that after sacrificing so much for her parents in return, they would be more appreciative. Instead, I found her parents overly self-righteous for giving their girls _an education._ It’s a huge deal for them, and for many parents in the same situation. But the things they said to _their own daughter_, who has never made bad decisions, always put others first, and genuinely valued her parents and culture?
+
+I was waiting for an exuberant rant from Kiran and was only mildly satisfied that it came from Nash, the only non-Indian protagonist in an Indian-culture-centered story. Something to let me know that I can’t be the only one who, when caught in those conversations, hides the fury rising in my throat.
+
+Her story resonates with many Indians and those in the Indian diaspora — you try to honor your parents’ sacrifices by abandoning yourself, only to feel that their love feels very conditional. It’s a very typical story for many people — moving to another country at a better shot of success, and being able to support themselves and their families. I love media portraying insane yet loving Indian parents, but I also want media that portrays isolating relationships between children and their parents — [because that’s the reality of many people](https://www.shethepeople.tv/news/sikh-woman-sydney-disowned-by-family-for-relationship-outside-religion/) (Indian or not).
+
+Sometimes love is conditional, even from parents.
