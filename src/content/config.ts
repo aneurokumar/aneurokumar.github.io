@@ -2,11 +2,11 @@ import { defineCollection, z } from "astro:content";
 
 const base = {
   tags: z.array(z.string()).nullish(),
-  created: z.union([z.string(), z.coerce.date()]).optional(),
-  "last-modified": z.union([z.string(), z.coerce.date()]).optional(),
-  type: z.string().optional(),
-  public: z.boolean().optional(),
-  draft: z.boolean().optional(),
+  created: z.union([z.string(), z.coerce.date()]).nullish(),
+  "last-modified": z.union([z.string(), z.coerce.date()]).nullish(),
+  type: z.string().nullish(),
+  public: z.boolean().nullish(),
+  draft: z.boolean().nullish(),
 };
 
 const blog = defineCollection({
