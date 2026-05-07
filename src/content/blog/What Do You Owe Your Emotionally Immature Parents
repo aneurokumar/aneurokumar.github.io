@@ -2,8 +2,7 @@
 public: true
 title: What Do You Owe Your Emotionally Immature Parents?
 description: “Love, Chai, and Other Four Letter Words” shows a glimpse of bad, yet normalized, parenting
-type:
-  - blog
+type: blog
 tags:
   - "#article"
   - "#book-review"
