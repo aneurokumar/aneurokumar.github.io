@@ -34,6 +34,7 @@ const work = await Promise.all(
     const { Content } = await item.render();
     return { ...item, Content };
   })
+);
 
 const bio = await getEntry("brain", "homepage-bio");
 
