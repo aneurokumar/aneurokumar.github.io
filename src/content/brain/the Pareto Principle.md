@@ -4,8 +4,8 @@ title:
 tags:
   - 12-questions
   - mental-model
-created: 2025-05-02
-last-modified: 2025-05-27
+created: 02-05-2025
+last-modified: 08-05-2026
 ---
 **Related**:
 
@@ -19,7 +19,7 @@ What I think about most in this problem is how I can apply this rule to what I'm
 However, identifying the things that make the biggest difference isn't always obvious. And if you've managed that, then you have to make sure you know how to move that needle forward.
 
 We see this in a lot of places and is a staple in self-help/productivity, but the reminders help!
-* [[./how to identify success metrics in your field to become successful|how to identify success metrics in your field to become successful]]
-* [[./few vital code functions account for massive reduction in code run-time|few vital code functions account for massive reduction in code run-time]]
-* [[you don't need a large vocabulary to speak a language|you don't need a large vocabulary to speak a language]]
+* [how to identify success metrics in your field to become successful](./how%20to%20identify%20success%20metrics%20in%20your%20field%20to%20become%20successful.md)
+* [few vital code functions account for massive reduction in code run-time](./few%20vital%20code%20functions%20account%20for%20massive%20reduction%20in%20code%20run-time.md)
+* [you don't need a large vocabulary to speak a language](you%20don't%20need%20a%20large%20vocabulary%20to%20speak%20a%20language.md)
 
