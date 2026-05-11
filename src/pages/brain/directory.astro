@@ -1,0 +1,39 @@
+---
+import { getCollection } from "astro:content";
+import PageLayout from "@layouts/PageLayout.astro";
+import Container from "@components/Container.astro";
+import ArrowCard from "@components/ArrowCard.astro";
+import Link from "@components/Link.astro";
+import { BRAIN } from "@consts";
+
+const notes = (await getCollection("brain"))
+  .sort((a, b) => {
+    const titleA = (a.data.title ?? a.slug).toLowerCase();
+    const titleB = (b.data.title ?? b.slug).toLowerCase();
+    return titleA.localeCompare(titleB);
+  });
+---
+
+<PageLayout title={BRAIN.TITLE} description={BRAIN.DESCRIPTION}>
+  <Container>
+    <div class="space-y-10">
+      <div class="animate flex items-center justify-between">
+        <div class="font-semibold text-black dark:text-white">
+          All Notes
+        </div>
+        <Link href="/brain">
+          ← Back to Second Brain
+        </Link>
+      </div>
+      <div class="space-y-4">
+        <ul class="flex flex-col gap-4">
+          {notes.map((note) => (
+            <li>
+              <ArrowCard entry={note} />
+            </li>
+          ))}
+        </ul>
+      </div>
+    </div>
+  </Container>
+</PageLayout>
